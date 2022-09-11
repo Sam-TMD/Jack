@@ -1,5 +1,5 @@
 server:
-  port: 8082
+  port: 3366
 spring:
   application:
-    name: application prop
+    name: application config client prop

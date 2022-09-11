@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: 3355
 spring:
   application:
     name: application config client dev 1111

@@ -2,4 +2,4 @@ server:
   port: 3355
 spring:
   application:
-    name: application config client dev 1111
+    name: application config client dev

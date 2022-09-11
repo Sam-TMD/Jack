@@ -3,3 +3,4 @@ server:
 spring:
   applicaion:
     name: config-info
+  info: mastet application 

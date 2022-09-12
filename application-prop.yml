@@ -2,4 +2,4 @@ server:
   port: 3366
 spring:
   application:
-    name: application config client prop 22222
+    name: application config client prop
